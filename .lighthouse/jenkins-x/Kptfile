@@ -7,5 +7,5 @@ upstream:
   git:
     commit: "96fc02360b0cfce61a3867d7605d8a16763ab464"
     repo: https://github.com/jenkins-x/jx3-pipeline-catalog.git
-    directory: packs/javascript/.lighthouse/jenkins-x
+    directory: packs/javascript
     ref: master
